@@ -5,8 +5,10 @@ repo: dingo # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Youtube
+    url: https://www.youtube.com
   - name: PATH08's Site
-    url: https://path08.gq
+    url: https://www.path08.gq
   - name: PATH08's Dinosaur Game
     url: https://dinosaur.js.org
   - name: Test Broken Site

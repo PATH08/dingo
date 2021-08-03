@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://path08.gq)
+[**Visit our status website →**](http://dingo.path08.gq)
 
 ## 📄 License
 

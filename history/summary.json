@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
+    "time": 84,
     "timeDay": 51,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 246,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 285,
+    "timeDay": 248,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 538,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "time": 611,
+    "timeDay": 1150,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/dinosaur.js.org",
     "slug": "path-08-s-dinosaur-game",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 170,
-    "timeDay": 277,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2021-08-05": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 164,
+    "timeDay": 288,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Satirn Developments Site",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 43,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 387,
+    "timeDay": 944,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   }
 ]

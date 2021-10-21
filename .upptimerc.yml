@@ -11,7 +11,7 @@ sites:
     url: https://www.path08.gq
   - name: PATH08's Dinosaur Game
     url: https://dinosaur.js.org
-  - name: Satirn Developments Site
+#  - name: Satirn Developments Site
     url: https://satirn-dev.gq
 
 

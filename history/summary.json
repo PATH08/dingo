@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 224,
-    "timeWeek": 197,
-    "timeMonth": 173,
+    "timeDay": 170,
+    "timeWeek": 187,
+    "timeMonth": 171,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 288,
-    "timeWeek": 283,
-    "timeMonth": 296,
-    "timeYear": 285,
+    "time": 284,
+    "timeDay": 279,
+    "timeWeek": 281,
+    "timeMonth": 295,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 770,
-    "timeDay": 420,
-    "timeWeek": 606,
-    "timeMonth": 746,
-    "timeYear": 770,
+    "time": 764,
+    "timeDay": 291,
+    "timeWeek": 550,
+    "timeMonth": 727,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2021-09-04": 60,
       "2021-08-14": 27
@@ -68,30 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 202,
-    "timeWeek": 288,
-    "timeMonth": 260,
+    "timeDay": 194,
+    "timeWeek": 275,
+    "timeMonth": 258,
     "timeYear": 211,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Satirn Developments Site",
-    "url": "https://satirn-dev.gq",
-    "icon": "https://favicons.githubusercontent.com/satirn-dev.gq",
-    "slug": "satirn-developments-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 2130,
-    "timeWeek": 756,
-    "timeMonth": 869,
-    "timeYear": 695,
-    "dailyMinutesDown": {
-      "2021-10-21": 0
-    }
   }
 ]

@@ -62,19 +62,19 @@
     "url": "https://aternos-afkbot.pathikritsaha.repl.co",
     "icon": "https://favicons.githubusercontent.com/aternos-afkbot.pathikritsaha.repl.co",
     "slug": "what",
-    "status": "down",
-    "uptime": "6.16%",
-    "uptimeDay": "6.16%",
-    "uptimeWeek": "6.16%",
-    "uptimeMonth": "6.16%",
-    "uptimeYear": "6.16%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 10127,
+    "timeDay": 10127,
+    "timeWeek": 10127,
+    "timeMonth": 10127,
+    "timeYear": 10127,
     "dailyMinutesDown": {
-      "2021-11-10": 0
+      "2021-11-10": 28
     }
   }
 ]

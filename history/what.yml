@@ -1,7 +1,7 @@
 url: https://aternos-afkbot.pathikritsaha.repl.co
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2021-11-27T23:37:48.583Z
+status: down
+code: 502
+responseTime: 413
+lastUpdated: 2021-11-28T15:12:44.660Z
 startTime: Wed Nov 10 2021 14:00:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

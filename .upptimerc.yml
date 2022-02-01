@@ -10,7 +10,7 @@ sites:
   - name: PATH08's Site
     url: https://www.path08.gq
   - name: WHAT?
-    url: https://aternos-afkbot.pathikritsaha.repl.co
+    url: $AYYORANGE
 #  - name: Satirn Developments Site
    # url: https://satirn-dev.gq
 

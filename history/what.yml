@@ -1,7 +1,7 @@
 url: $AYYORANGE
 status: down
-code: 404
-responseTime: 5065
-lastUpdated: 2023-03-19T23:08:27.022Z
+code: 429
+responseTime: 379
+lastUpdated: 2023-03-20T23:08:15.331Z
 startTime: Wed Nov 10 2021 14:00:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

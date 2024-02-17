@@ -53,7 +53,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.49%",
+    "uptimeYear": "32.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -305,8 +305,7 @@
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
-      "2023-02-18": 1440,
-      "2023-02-17": 1440
+      "2023-02-18": 1440
     }
   },
   {
@@ -316,17 +315,15 @@
     "slug": "what",
     "status": "up",
     "uptime": "96.32%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2284,
     "timeDay": 458,
     "timeWeek": 1506,
     "timeMonth": 711,
     "timeYear": 2023,
-    "dailyMinutesDown": {
-      "2024-02-16": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]

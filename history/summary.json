@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 107,
-    "timeDay": 87,
-    "timeWeek": 83,
-    "timeMonth": 116,
+    "timeDay": 199,
+    "timeWeek": 102,
+    "timeMonth": 120,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-07-30": 39,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 337,
-    "timeDay": 169,
-    "timeWeek": 187,
-    "timeMonth": 221,
+    "time": 336,
+    "timeDay": 176,
+    "timeWeek": 182,
+    "timeMonth": 220,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2024-06-13": 18,
@@ -51,11 +51,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.path08.gq.ico",
     "slug": "path-08-s-site",
     "status": "down",
-    "uptime": "52.68%",
+    "uptime": "52.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.38%",
+    "uptimeYear": "82.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -123,8 +123,7 @@
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
-      "2023-08-21": 1440,
-      "2023-08-20": 1440
+      "2023-08-21": 1440
     }
   },
   {
@@ -138,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
-    "timeDay": 1202,
-    "timeWeek": 928,
-    "timeMonth": 869,
-    "timeYear": 812,
+    "time": 1099,
+    "timeDay": 618,
+    "timeWeek": 920,
+    "timeMonth": 876,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   }
 ]

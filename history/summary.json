@@ -89,19 +89,19 @@
     "url": "$AYYORANGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "what",
-    "status": "down",
+    "status": "up",
     "uptime": "97.10%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 864,
-    "timeWeek": 839,
-    "timeMonth": 967,
-    "timeYear": 836,
+    "time": 917,
+    "timeDay": 830,
+    "timeWeek": 834,
+    "timeMonth": 962,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-09-27": 0
+      "2024-09-27": 12
     }
   }
 ]
